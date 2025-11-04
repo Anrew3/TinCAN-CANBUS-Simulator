@@ -14,3 +14,16 @@
   - Molex 6P Connector [Mouser_Molex6P](https://www.adafruit.com/product/5724)
   - Barrel Jack [Mouser_BarrelJack](https://www.adafruit.com/product/4739)
   - CASE... 3D Print or CNC Aluminum [3D Print](https://www.adafruit.com/product/4739) , [CNC Aluminum](https://www.adafruit.com/product/4739)
+  - M2 & M4 Screws (4x M4x.7mmx15mm, 5x M2x.7mmx5mm)
+
+## Hardware List (Optional)
+  - JST Headers [Mouser_RP2040CAN](https://www.adafruit.com/product/5724)
+  - ESP32 WIFI Addon [Mouser_MPM3610](https://www.adafruit.com/product/4739)
+
+## Wiring (TINCAN)
+![Screenshot](Public/TinCAN_Wiring.jpg)
+
+## Flashing Firmware
+  #### There are two options...
+  - Simple GUI FLASH [Simple](https://www.Arduino.com)
+  - Build & Compile using the Arduino IDE
