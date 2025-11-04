@@ -5,8 +5,9 @@
 
 ### What's the point?
   At the time there is no existing project to power/boot SYNC 4 models and/or newer(2020+) modules. There also isn't a compact user friendly option to do so.
-
+## [Purchase Kit, Harness's, or Parts Here](https://www.adafruit.com/product/4739)
 ![Screenshot](Public/TinCAN.png)
+
 
 ## Hardware List (Required)
   - Adafruit RP2040 Canbus Board [Adafruit_RP2040CAN](https://www.adafruit.com/product/5724) , [Mouser_RP2040CAN](https://www.adafruit.com/product/5724)
