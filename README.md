@@ -6,7 +6,7 @@
 ### What's the point?
   At the time there is no existing project to power/boot SYNC 4 models and/or newer(2020+) modules. There also isn't a compact user friendly option to do so.
 ## [Purchase Kit, Harness's, or Parts Here](https://www.adafruit.com/product/4739)
-![Screenshot](Public/TinCAN.png)
+![Screenshot](docs/images/TinCAN.png)
 
 
 ## Hardware List (Required)
@@ -22,7 +22,7 @@
   - ESP32 WIFI Addon [Mouser_MPM3610](https://www.adafruit.com/product/4739)
 
 ## Wiring (TINCAN)
-![Screenshot](Public/TinCAN_Wiring.jpg)
+![Screenshot](docs/images/TinCAN_Wiring.jpg)
 
 ## Flashing Firmware
   #### There are two options...
