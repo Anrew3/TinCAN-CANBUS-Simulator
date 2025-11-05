@@ -8,6 +8,10 @@
 ## [Purchase Kit, Harness's, or Parts Here](https://www.google.com)
 ![Screenshot](docs/images/TinCAN.png)
 
+## How do I build this?
+  - Gather the specified hardware, 3d print items, choose backplate/power config.
+  - Read the [Assembly Guide](https://www.github.com) for a detailed instructions!
+  - Use the Firmare Flashing Tool found below to flash the rp2040 firmware.
 
 ## Hardware List (Required)
   - Adafruit RP2040 Canbus Board [Adafruit_RP2040CAN](https://www.adafruit.com/product/5724) , [Mouser_RP2040CAN](https://mou.sr/3xuF0uN)
