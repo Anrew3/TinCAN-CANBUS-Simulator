@@ -13,13 +13,13 @@
   - Adafruit RP2040 Canbus Board [Adafruit_RP2040CAN](https://www.adafruit.com/product/5724) , [Mouser_RP2040CAN](https://mou.sr/3xuF0uN)
   - Adafruit MPM3610 21V -> 5V [Adafruit_MPM3610](https://www.adafruit.com/product/4739) , [Mouser_MPM3610](https://mou.sr/3Vck6YR)
   - Molex 6P Connector [Mouser_Molex6P](https://mou.sr/3JtCprp)
-  - Barrel Jack [Mouser_BarrelJack](https://www.google.com)
-  - CASE... 3D Print or CNC Aluminum [3D Print](https://github.com/Anrew3/TinCAN-RP2040-CAN-Simulator-Bench/hardware/enclosure/Carry_Tray_RP2040.3mf) , [CNC Aluminum](https://www.google.com)
+  - Barrel Jack [Amazon_BarrelJack](https://www.amazon.com)
+  - CASE... 3D Print or CNC Aluminum [3D Print](https://github.com/Anrew3/TinCAN-RP2040-CAN-Simulator-Bench/hardware/enclosure/Carry_Tray_RP2040.3mf) , [CNC Aluminum](https://www.jlcpcb.com)
   - M2 & M4 Screws (4x M4x.7mmx15mm, 5x M2x.7mmx5mm)
 
 ## Hardware List (Optional)
-  - JST Headers [Mouser_RP2040CAN](https://www.google.com)
-  - ESP32 WIFI Addon [Mouser_MPM3610](https://www.google.com)
+  - JST Headers [Amazon_JSTHeaders](https://www.amazon.com)
+  - ESP32 WIFI Addon [Adafruit_ESP32](https://www.adafruit.com/product/5395)
 
 ## Wiring (TINCAN)
 ![Screenshot](docs/images/TinCAN_Wiring.jpg)
